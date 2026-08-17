@@ -2,7 +2,7 @@
 
 My personal portfolio site — a single-page, dark-themed site showcasing my projects, background, and skills, built from scratch with plain HTML and CSS (no frameworks).
 
-**[Live site](https://denofury.github.io/portfolio/)** *(once GitHub Pages is enabled)*
+**[Live site](https://denofury.github.io/portfolio/)**
 
 ## Features
 - Single-page layout with anchor-linked navigation (About, Projects, Skills, Contact)
